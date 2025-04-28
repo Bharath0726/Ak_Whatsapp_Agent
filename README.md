@@ -5,7 +5,7 @@
 
 ## Overview
 
-Meet **AK**, a WhatsApp agent inspired by the film Ex Machina. This implementation demonstrates how artificial intelligence can create engaging, natural conversations through a familiar messaging platform. While not fully sentient, AK showcases the current capabilities of modern AI technologies in a practical application.
+Meet **AK**, a WhatsApp agent. This implementation demonstrates how artificial intelligence can create engaging, natural conversations through a familiar messaging platform. While not fully sentient, AK showcases the current capabilities of modern AI technologies in a practical application.
 
 AK features a comprehensive set of capabilities:
 
