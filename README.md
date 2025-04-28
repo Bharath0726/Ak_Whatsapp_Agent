@@ -21,6 +21,9 @@ This project represents a practical implementation of theoretical AI concepts, c
 
 ## Technical Implementation
 
+![Editor _ Mermaid Chart-2025-04-27-213857](https://github.com/user-attachments/assets/3e5c45c9-93f8-4912-a2c9-4beb70bc208c)
+
+
 ### System Requirements
 
 - Python 3.12
