@@ -36,7 +36,7 @@ This project represents a practical implementation of theoretical AI concepts, c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/neural-maze/ak-whatsapp-agent-course.git
+git clone https://github.com/Bharath0726/Ak_Whatsapp_Agent.git
 cd ak-whatsapp-agent-course
 ```
 
