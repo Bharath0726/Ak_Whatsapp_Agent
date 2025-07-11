@@ -19,6 +19,8 @@ AK features a comprehensive set of capabilities:
 
 This project represents a practical implementation of theoretical AI concepts, creating an agent that can pass a modern interpretation of the Turing Test through a messaging platform.
 
+<video src="https://raw.githubusercontent.com/Bharath0726/Ak_Whatsapp_Agent/main/Video/FocuSee%20Project%202025-04-28%2013-19-27.mp4" controls width="640" height="360"></video>
+
 ## Technical Implementation
 
 ![Editor _ Mermaid Chart-2025-04-27-213857](https://github.com/user-attachments/assets/3e5c45c9-93f8-4912-a2c9-4beb70bc208c)
