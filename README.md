@@ -19,7 +19,7 @@ AK features a comprehensive set of capabilities:
 
 This project represents a practical implementation of theoretical AI concepts, creating an agent that can pass a modern interpretation of the Turing Test through a messaging platform.
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=fpzGUJKOL6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the Demo Video](http://www.youtube.com/watch?v=fpzGUJKOL6M&t=17)](https://www.youtube.com/watch?v=fpzGUJKOL6M)
 
 ## Technical Implementation
 
