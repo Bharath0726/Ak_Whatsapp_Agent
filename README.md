@@ -23,7 +23,6 @@ This project represents a practical implementation of theoretical AI concepts, c
 
 ## Technical Implementation
 
-![Editor _ Mermaid Chart-2025-04-27-213857](https://github.com/user-attachments/assets/3e5c45c9-93f8-4912-a2c9-4beb70bc208c)
 <img width="966" height="731" alt="Screenshot 2025-07-15 at 12 26 18 AM" src="https://github.com/user-attachments/assets/f931dd0a-3ad2-41ca-b9d2-7dafdd5240d7" />
 
 
